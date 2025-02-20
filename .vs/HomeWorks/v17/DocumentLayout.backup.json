@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9B44D-E87D-45ED-AB94-C9505A7A59A0}|Task2_6\\Task2_6.csproj|c:\\users\\shaburovaa\\source\\repos\\homeworks\\task2_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9B44D-E87D-45ED-AB94-C9505A7A59A0}|Task2_6\\Task2_6.csproj|solutionrelative:task2_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8EB6B6-330A-4890-A190-AF658868734D}|Task2_7\\Task2_7.csproj|c:\\users\\shaburovaa\\source\\repos\\homeworks\\task2_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8EB6B6-330A-4890-A190-AF658868734D}|Task2_7\\Task2_7.csproj|solutionrelative:task2_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\Task2_7\\Program.cs",
+              "RelativeDocumentMoniker": "Task2_7\\Program.cs",
+              "ToolTip": "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\Task2_7\\Program.cs",
+              "RelativeToolTip": "Task2_7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:29:01.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\Task2_6\\Program.cs",
+              "RelativeDocumentMoniker": "Task2_6\\Program.cs",
+              "ToolTip": "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\Task2_6\\Program.cs",
+              "RelativeToolTip": "Task2_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:17:19.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
