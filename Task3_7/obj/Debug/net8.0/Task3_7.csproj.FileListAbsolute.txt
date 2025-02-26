@@ -1,0 +1,15 @@
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\bin\Debug\net8.0\Task3_7.exe
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\bin\Debug\net8.0\Task3_7.deps.json
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\bin\Debug\net8.0\Task3_7.runtimeconfig.json
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\bin\Debug\net8.0\Task3_7.dll
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\bin\Debug\net8.0\Task3_7.pdb
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\Task3_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\Task3_7.AssemblyInfoInputs.cache
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\Task3_7.AssemblyInfo.cs
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\Task3_7.csproj.CoreCompileInputs.cache
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\Task3_7.sourcelink.json
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\Task3_7.dll
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\refint\Task3_7.dll
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\Task3_7.pdb
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\Task3_7.genruntimeconfig.cache
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_7\obj\Debug\net8.0\ref\Task3_7.dll
