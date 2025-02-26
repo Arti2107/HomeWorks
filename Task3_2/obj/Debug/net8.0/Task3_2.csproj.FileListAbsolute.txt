@@ -1,0 +1,15 @@
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\bin\Debug\net8.0\Task3_2.exe
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\bin\Debug\net8.0\Task3_2.deps.json
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\bin\Debug\net8.0\Task3_2.runtimeconfig.json
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\bin\Debug\net8.0\Task3_2.dll
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\bin\Debug\net8.0\Task3_2.pdb
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\Task3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\Task3_2.AssemblyInfoInputs.cache
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\Task3_2.AssemblyInfo.cs
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\Task3_2.csproj.CoreCompileInputs.cache
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\Task3_2.sourcelink.json
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\Task3_2.dll
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\refint\Task3_2.dll
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\Task3_2.pdb
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\Task3_2.genruntimeconfig.cache
+C:\Users\shaburovaa\source\repos\HomeWorks\Task3_2\obj\Debug\net8.0\ref\Task3_2.dll
