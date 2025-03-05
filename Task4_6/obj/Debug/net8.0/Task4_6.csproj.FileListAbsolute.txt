@@ -1,0 +1,15 @@
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\bin\Debug\net8.0\Task4_6.exe
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\bin\Debug\net8.0\Task4_6.deps.json
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\bin\Debug\net8.0\Task4_6.runtimeconfig.json
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\bin\Debug\net8.0\Task4_6.dll
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\bin\Debug\net8.0\Task4_6.pdb
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\Task4_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\Task4_6.AssemblyInfoInputs.cache
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\Task4_6.AssemblyInfo.cs
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\Task4_6.csproj.CoreCompileInputs.cache
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\Task4_6.sourcelink.json
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\Task4_6.dll
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\refint\Task4_6.dll
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\Task4_6.pdb
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\Task4_6.genruntimeconfig.cache
+C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_6\obj\Debug\net8.0\ref\Task4_6.dll
