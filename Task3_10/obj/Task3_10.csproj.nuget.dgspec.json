@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\HW3\\Task3_10\\Task3_10.csproj": {}
+    "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Task3_10\\Task3_10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\HW3\\Task3_10\\Task3_10.csproj": {
+    "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Task3_10\\Task3_10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\HW3\\Task3_10\\Task3_10.csproj",
+        "projectUniqueName": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Task3_10\\Task3_10.csproj",
         "projectName": "Task3_10",
-        "projectPath": "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\HW3\\Task3_10\\Task3_10.csproj",
+        "projectPath": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Task3_10\\Task3_10.csproj",
         "packagesPath": "C:\\Users\\shaburovaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shaburovaa\\source\\repos\\HomeWorks\\HW3\\Task3_10\\obj\\",
+        "outputPath": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Task3_10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
