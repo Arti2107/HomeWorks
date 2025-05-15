@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\",
+  "WorkspaceRootPath": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B380389E-1DF9-49C8-A8A0-5540754471C3}|Task5_10\\Task5_10.csproj|c:\\users\\shaburovaa\\source\\repos\\arti2107\\homeworks\\task5_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B380389E-1DF9-49C8-A8A0-5540754471C3}|Task5_10\\Task5_10.csproj|solutionrelative:task5_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59A6EF00-E13E-48DC-BFFC-C3172F18C877}|Task9_1\\Task9_1.csproj|c:\\users\\shaburovaa\\source\\repos\\arti2107\\homeworks\\tasks 9-11\\task9_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A6EF00-E13E-48DC-BFFC-C3172F18C877}|Task9_1\\Task9_1.csproj|solutionrelative:task9_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EB5B63-BD6E-4424-9838-7F71BA5D0576}|Task9_2\\Task9_2.csproj|c:\\users\\shaburovaa\\source\\repos\\arti2107\\homeworks\\tasks 9-11\\task9_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EB5B63-BD6E-4424-9838-7F71BA5D0576}|Task9_2\\Task9_2.csproj|solutionrelative:task9_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374AFBFC-6925-4836-ADD3-F4EF95CC0F64}|Task10\\Task10.csproj|c:\\users\\shaburovaa\\source\\repos\\arti2107\\homeworks\\tasks 9-11\\task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374AFBFC-6925-4836-ADD3-F4EF95CC0F64}|Task10\\Task10.csproj|solutionrelative:task10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66D30A80-DC53-480B-8F07-82FD60BAFC33}|Task11_2\\Task11_2.csproj|c:\\users\\shaburovaa\\source\\repos\\arti2107\\homeworks\\tasks 9-11\\task11_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66D30A80-DC53-480B-8F07-82FD60BAFC33}|Task11_2\\Task11_2.csproj|solutionrelative:task11_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9B74CC-CC38-47BF-916E-C7CC4CC77CFD}|Task11_1\\Task11_1.csproj|c:\\users\\shaburovaa\\source\\repos\\arti2107\\homeworks\\tasks 9-11\\task11_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9B74CC-CC38-47BF-916E-C7CC4CC77CFD}|Task11_1\\Task11_1.csproj|solutionrelative:task11_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,16 +61,72 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task11_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task11_2\\Program.cs",
+              "ToolTip": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task11_2\\Program.cs",
+              "RelativeToolTip": "Task11_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:13:32.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task11_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task11_1\\Program.cs",
+              "ToolTip": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task11_1\\Program.cs",
+              "RelativeToolTip": "Task11_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:11:18.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task10\\Program.cs",
+              "RelativeDocumentMoniker": "Task10\\Program.cs",
+              "ToolTip": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task10\\Program.cs",
+              "RelativeToolTip": "Task10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:04:00.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task9_2\\Program.cs",
+              "RelativeDocumentMoniker": "Task9_2\\Program.cs",
+              "ToolTip": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task9_2\\Program.cs",
+              "RelativeToolTip": "Task9_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:03:45.298Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Task5_10\\Program.cs",
-              "RelativeDocumentMoniker": "Task5_10\\Program.cs",
-              "ToolTip": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Task5_10\\Program.cs",
-              "RelativeToolTip": "Task5_10\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAkwBgAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task9_1\\Program.cs",
+              "RelativeDocumentMoniker": "Task9_1\\Program.cs",
+              "ToolTip": "C:\\Users\\shaburovaa\\source\\repos\\Arti2107\\HomeWorks\\Tasks 9-11\\Task9_1\\Program.cs",
+              "RelativeToolTip": "Task9_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:17:15.191Z",
+              "WhenOpened": "2025-04-21T13:03:26.842Z",
               "EditorCaption": ""
             }
           ]

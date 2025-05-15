@@ -13,3 +13,18 @@ C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_4\obj\Debug\net8.0\refint\T
 C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_4\obj\Debug\net8.0\Task4_4.pdb
 C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_4\obj\Debug\net8.0\Task4_4.genruntimeconfig.cache
 C:\Users\shaburovaa\source\repos\HomeWorks\HW3\Task4_4\obj\Debug\net8.0\ref\Task4_4.dll
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\bin\Debug\net8.0\Task4_4.exe
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\bin\Debug\net8.0\Task4_4.deps.json
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\bin\Debug\net8.0\Task4_4.runtimeconfig.json
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\bin\Debug\net8.0\Task4_4.dll
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\bin\Debug\net8.0\Task4_4.pdb
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\Task4_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\Task4_4.AssemblyInfoInputs.cache
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\Task4_4.AssemblyInfo.cs
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\Task4_4.csproj.CoreCompileInputs.cache
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\Task4_4.sourcelink.json
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\Task4_4.dll
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\refint\Task4_4.dll
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\Task4_4.pdb
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\Task4_4.genruntimeconfig.cache
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task4_4\obj\Debug\net8.0\ref\Task4_4.dll

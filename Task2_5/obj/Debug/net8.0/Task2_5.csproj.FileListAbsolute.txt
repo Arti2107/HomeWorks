@@ -13,3 +13,18 @@ C:\Users\shaburovaa\source\repos\HomeWorks\Task2_5\obj\Debug\net8.0\refint\Task2
 C:\Users\shaburovaa\source\repos\HomeWorks\Task2_5\obj\Debug\net8.0\Task2_5.pdb
 C:\Users\shaburovaa\source\repos\HomeWorks\Task2_5\obj\Debug\net8.0\Task2_5.genruntimeconfig.cache
 C:\Users\shaburovaa\source\repos\HomeWorks\Task2_5\obj\Debug\net8.0\ref\Task2_5.dll
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\bin\Debug\net8.0\Task2_5.exe
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\bin\Debug\net8.0\Task2_5.deps.json
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\bin\Debug\net8.0\Task2_5.runtimeconfig.json
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\bin\Debug\net8.0\Task2_5.dll
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\bin\Debug\net8.0\Task2_5.pdb
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\Task2_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\Task2_5.AssemblyInfoInputs.cache
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\Task2_5.AssemblyInfo.cs
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\Task2_5.csproj.CoreCompileInputs.cache
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\Task2_5.sourcelink.json
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\Task2_5.dll
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\refint\Task2_5.dll
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\Task2_5.pdb
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\Task2_5.genruntimeconfig.cache
+C:\Users\shaburovaa\source\repos\Arti2107\HomeWorks\Tasks 9-11\Task2_5\obj\Debug\net8.0\ref\Task2_5.dll
